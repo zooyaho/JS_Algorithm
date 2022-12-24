@@ -73,5 +73,5 @@ console.log(add3(6));
 ### 메서드
 
 - push, pop ➡️ O(1)
-- shift, unshift, slice, splice ➡️ O(N), index를 다시 정의해야하기 때문
+- shift, unshift, slice, splice ➡️ O(N), index를 다시 정의해야하기 때문!
 - sort ➡️ O(N \* logN)
